@@ -1,4 +1,4 @@
-package pd.treemap.test;
+package pd.treemap;
 
 import static org.junit.Assert.*;
 
